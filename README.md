@@ -1,2 +1,2 @@
-# Prueba-tecnica-naowee--Daniel-Ferrer
+# Prueba-tecnica-naowee-Daniel-Ferrer
 Se adjuntan entregables de la prueba tecnica
